@@ -5,7 +5,7 @@
 
 /* 
  * File:   Societa.cpp
- * Author: gagandeepsuman
+ * Author: Gaggu097
  * 
  * Created on July 25, 2023, 10:05 PM
  */
